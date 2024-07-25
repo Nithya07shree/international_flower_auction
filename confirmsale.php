@@ -83,7 +83,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <a href="http://localhost/dbms/salessel.php" id="l3">Sales</a><br><br><br>
                 <a href="http://localhost/dbms/confirmsale.php" id="l4">Confirm bid</a><br><br><br>
             </div>
-            <a href="http://localhost/dbms/home.html" id="logout">LOGOUT</a>
+            <a href="http://localhost/dbms/index.html" id="logout">LOGOUT</a>
         </div>
         <div class="rightbox">
             <h2>Confirm Sale</h2>

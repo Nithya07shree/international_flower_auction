@@ -18,7 +18,7 @@
             <a href="http://localhost/dbms/salesbuy.php" id="l3">Sales</a><br><br><br>
             <a href="http://localhost/dbms/biddingbuy.php" id="l4">Bidding</a><br><br><br>
             </div>
-            <a href="http://localhost/dbms/home.html" id="logout">LOGOUT</a>
+            <a href="http://localhost/dbms/index.html" id="logout">LOGOUT</a>
         </div>
 
         <div class="rightbox">
